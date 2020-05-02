@@ -1,5 +1,0 @@
-browser-sync start --server --directory --files "*"
-
-jsfiddle.net
-
-codepen.io
